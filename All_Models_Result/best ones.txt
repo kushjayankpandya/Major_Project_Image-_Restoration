@@ -1,0 +1,6 @@
+smodel1(small model 1) = mean_absolute_error
+smodel2(small model 2) = root_mean_square_error
+model1(model 1) = root_mean_square_error
+model2(model 2) = root_mean_square_error
+goodzoom (good model 1) = mean_squared_logarithmic_error
+bestzoom (good model 2) = mean_squared_logarithmic_error
